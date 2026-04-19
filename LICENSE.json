@@ -1,0 +1,26 @@
+{
+  "license_id": "MONTI-LIC-2CAF1D7EC0FA2F86",
+  "name": "MONTIAI Proprietary License",
+  "version": "2.0.0",
+  "spdx_identifier": "LicenseRef-MONTI-LIC-2CAF1D7EC0FA2F86",
+  "type": "PROPRIETARY",
+  "owner": "JOHN^CHARLES^MONTI",
+  "repository_authority": "git.human.JOHNCHARLESMONTI.COM/CAM",
+  "effective_date": "2026-04-19",
+  "summary": "All rights reserved. Use, copying, modification, distribution, reverse engineering, sublicensing, and commercialization are prohibited unless expressly authorized in writing by the owner.",
+  "restrictions": [
+    "NO reverse engineering",
+    "NO modification without prior written authorization",
+    "NO redistribution without prior written authorization",
+    "NO commercial use without a separate paid license agreement",
+    "NO circumvention of technical protection measures"
+  ],
+  "enforcement": {
+    "ip_status": "Protected and monetizable proprietary asset",
+    "unauthorized_use": "Expressly prohibited; subject to legal enforcement and damages"
+  },
+  "contact": {
+    "licensing_authority": "JOHN^CHARLES^MONTI",
+    "reference": "git.human.JOHNCHARLESMONTI.COM/CAM"
+  }
+}
